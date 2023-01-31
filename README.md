@@ -2,7 +2,7 @@
 # GOhiring Data Engineer Code Challenge
 
 ## Setup
-1. Please clone this repo to your local machine. When submitting solution files, please create a new public repository. (Forking would lead to solutions to this code challenge being publicly available.
+1. Please clone this repo to your local machine. When submitting solution files, please create a new public repository. (Forking would lead to solutions to this code challenge being publicly available and easy to find).
 2. In this repository, there are two files `jobs.json` and `locations.csv`. You will need to load these files, join them on the `zip_code` fields, and answer the questions below.
 You can use any tool or combination of tools with which you are familiar, however Python/Jupyter, Power BI, and SQL are most relevant to this position.
 
