@@ -1,5 +1,5 @@
 
-# GOhiring Data Engineer Code Challenge
+# GOhiring Data Team Code Challenge
 
 ## Setup
 1. Please clone this repo to your local machine. When submitting solution files, please create a new public repository. (Forking would lead to solutions to this code challenge being publicly available and easy to find).
@@ -18,6 +18,7 @@ You can use any tool or combination of tools with which you are familiar, howeve
 4. Develop the SQL to define a dimensional model schema for this data. Document (or be ready to discuss) any design decisions that you make.
 5. Using your dimensional model, write a SQL query that returns a list of jobs for each company, ordered and enumerated within each group by the `posted_at` date.
 6. Discuss how you would obtain and model information (within your schema) about the duration of jobs (from `posted` to `expired` states).
+7. (For Data Analyst Role) Provide a visualization showing the trend of the number of active jobs over time. Also include the company name data in this visualization.
 
 ## Submission
 Please submit a file with the answers to the above questions, as well as any other files used to obtain the solutions, via the new Github repository that you created.  Provide the link/name of the repo in your email response. 
